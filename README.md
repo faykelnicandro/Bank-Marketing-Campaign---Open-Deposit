@@ -1,4 +1,4 @@
-# Bank-Marketing-Campaign---Open-Deposit
+# Bank Marketing Campaign - Open Deposit
 
 Latar Belakang
 
